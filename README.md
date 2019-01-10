@@ -1,4 +1,4 @@
-# pialkanti.github.io
+# joydeb.github.io
 This is my portfolio website. Click [here](https://joydeb.github.io/) to visit.
 
 #### Template Used:
